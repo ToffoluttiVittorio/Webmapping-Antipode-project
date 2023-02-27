@@ -17,4 +17,4 @@ $user = 'postgres';
 $password = 'postgres';
 Pour connaitre votre host, port et username, dans pgAdmin, clique droit sur votre serveur, "Properties" et "Connection", tout est renseigné dans cette page.
 dbname est le nom que vous avez donnée à votre base de donnée et password votre mot de passe. 
-Lancez ensuite dans un navigateur internet : "http://localhost/webmap_vittorio/index.html"
+Lancez ensuite dans un navigateur internet : "http://localhost/"nom_du_fichier_qui_contient_html_php_js"/index.html"
